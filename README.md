@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pnytko
-- 👀 I’m interested in women.
+- 👀 I’m interested in calculations, difficult things, troubleshooting.
 - 🌱 I’m currently learning Python/CPP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
