@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @pnytko
-- 👀 I’m interested in calculations, difficult things, troubleshooting.
-- 🌱 I’m currently learning Python/CPP.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm interested in automatization and computational programs. 
 
-<!---
-pnytko/pnytko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have some experience in:
+
+- Python - Anaconda, Jupyter, numpy, pandas, matplotlib, pillow, opencv
+- HTML, CSS, JavaScript - very basic JS, OpenLayers6
+- OS - Windows (any version), some experience with Linux Ubuntu/Arch, work with terminal (bash/fish)
+- Other tools - efficient data manipulation in Total Commander, Adobe Photoshop (v.g. knowledge), Figma (UI design), VS Code (basic usage)
+
